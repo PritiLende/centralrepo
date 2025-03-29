@@ -1,6 +1,6 @@
-.css
-.txt
-.php
+*.css
+*.txt
+*.php
 
 
 
