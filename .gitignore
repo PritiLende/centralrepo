@@ -1,6 +1,7 @@
 *.css
 *.txt
 *.php
+/folder1
 
 
 
